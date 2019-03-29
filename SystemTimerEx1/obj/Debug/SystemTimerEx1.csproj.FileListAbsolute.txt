@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\SystemTimerEx1\SystemTimerEx1\bin\Debug\SystemTimerEx1.exe.config
+C:\Users\delya\source\repos\SystemTimerEx1\SystemTimerEx1\bin\Debug\SystemTimerEx1.exe
+C:\Users\delya\source\repos\SystemTimerEx1\SystemTimerEx1\bin\Debug\SystemTimerEx1.pdb
+C:\Users\delya\source\repos\SystemTimerEx1\SystemTimerEx1\obj\Debug\SystemTimerEx1.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\SystemTimerEx1\SystemTimerEx1\obj\Debug\SystemTimerEx1.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\SystemTimerEx1\SystemTimerEx1\obj\Debug\SystemTimerEx1.exe
+C:\Users\delya\source\repos\SystemTimerEx1\SystemTimerEx1\obj\Debug\SystemTimerEx1.pdb
