@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\ThreadTimer\ThreadTimer\bin\Debug\ThreadTimer.exe.config
+C:\Users\delya\source\repos\ThreadTimer\ThreadTimer\bin\Debug\ThreadTimer.exe
+C:\Users\delya\source\repos\ThreadTimer\ThreadTimer\bin\Debug\ThreadTimer.pdb
+C:\Users\delya\source\repos\ThreadTimer\ThreadTimer\obj\Debug\ThreadTimer.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\ThreadTimer\ThreadTimer\obj\Debug\ThreadTimer.exe
+C:\Users\delya\source\repos\ThreadTimer\ThreadTimer\obj\Debug\ThreadTimer.pdb
+C:\Users\delya\source\repos\ThreadTimer\ThreadTimer\obj\Debug\ThreadTimer.csprojAssemblyReference.cache
